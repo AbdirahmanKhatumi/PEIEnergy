@@ -103,9 +103,22 @@ nav h1{
     border: 0;
     
  }
+ .btns{
+   width: 173.08px;
+   height: 49px;
+   padding: 11px 35px;
+   color: #ffffff;
+   background-color: #29c367;
+   border-radius: 5px;
+   border: 0;
+   
+}
  .btn1:hover{
   background-color: rgb(33, 33, 61);
  }
+ .btns:hover{
+   background-color: rgb(33, 33, 61);
+  }
  .flex-con{
     display: flex;
     flex-direction: column;
